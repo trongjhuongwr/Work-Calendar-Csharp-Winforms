@@ -1,1 +1,3 @@
 # ArthurCalendarC#Winform
+Hello. My name is Arthur. I'm a sophomore majoring in Computer Science at University of Economics Ho Chi Minh City.
+This is a project about Calendar which is created by C# Winform. It has some function like create work note, notification, set timer,...
